@@ -7,4 +7,4 @@ Code for describing Schrodinger's Equation and visualizing orbitals
 •Assoc_wave_func creates the associated Leguerre wave function\
 •Hydrogen WF gives the hydrogen wave function using the above functions\
 •Dump data plots all the data in the work function and stores them in a file\
-•Plotter plots the orbital shapes\
+•Plotter plots the orbital shapes
